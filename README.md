@@ -15,7 +15,7 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `intra_id` value to your 42 Intra username.
 
 ```
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
 ```
 
 ### 🔒 If you want to protect your **email, name privacy**, please add the options below!
@@ -28,16 +28,16 @@ privacyName=true
 #### example
 
 ```
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 ```
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ```
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ```
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 ### ⚓️ Now you can choose **cursus**!
 
@@ -48,10 +48,10 @@ cursus=cursus_name
 #### example
 
 ```
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 ```
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 ### 🌌 Now Support DarkMode!
 
@@ -62,14 +62,14 @@ darkmode=true
 #### example
 
 ```****
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 ```
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 # ✅ 42 ProjectScore Badge!
 
-**jaeskim's 42 ft_printf Score** - ![jaeskim's 42 ft_printf Score](https://badge42.herokuapp.com/api/project/jaeskim/ft_printf)
+**jubaek's 42 ft_printf Score** - ![jubaek's 42 ft_printf Score](https://badge42.herokuapp.com/api/project/jubaek/ft_printf)
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
@@ -78,7 +78,7 @@ Change the `intra_id` value to your 42 Intra username.
 Change the `project_name` value to the project_name you want to mark!
 
 ```
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/JaeSeoKim/badge42)
+[![jubaek's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/JaeSeoKim/badge42)
 ```
 
 ## Contributors ✨
