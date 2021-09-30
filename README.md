@@ -5,7 +5,7 @@
 
 > 🚀 Dynamically generated 42 badge for your git readmes.
 
-![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jaeskim)
+![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jubaek)
 
 # 💡 42 Stats Card!
 
