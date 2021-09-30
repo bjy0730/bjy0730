@@ -3,6 +3,9 @@
 
 [![github-action](https://github.com/JaeSeoKim/badge42/workflows/test/badge.svg)](https://github.com/JaeSeoKim/badge42/actions) [![codecov](https://codecov.io/gh/JaeSeoKim/badge42/branch/master/graph/badge.svg?token=D5PPJZKDUY)](https://codecov.io/gh/JaeSeoKim/badge42)
 
+[![jubaek's 42 stats](https://badge42.herokuapp.com/api/stats/jubaek)](https://github.com/JaeSeoKim/badge42)
+
+
 > 🚀 Dynamically generated 42 badge for your git readmes.
 
 ![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jubaek)
