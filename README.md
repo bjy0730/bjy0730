@@ -3,6 +3,9 @@
 
 [![AR-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0730&theme=tokyonight&show_icons=true)](https://github.com/bjy0730/github-readme-stats)
 
+![AR-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0730&theme=tokyonight&show_icons=true)
+
+
 ### 🖥 42SEOUL(Born2becode)
 ![jubaek's stats](https://badge42.herokuapp.com/api/stats/jubaek)
 
