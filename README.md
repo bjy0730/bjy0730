@@ -5,10 +5,10 @@
 
 ![AR-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0730&theme=tokyonight&show_icons=true&count_private=true)
 
-<!--
+
 ### 🖥 42SEOUL(Born2becode)
 ![jubaek's stats](https://badge42.herokuapp.com/api/stats/jubaek)
 
 #### - 42seoul 본과정 3기 재학중
 #### - J2KB 코딩스터디 3기 완료
--->
+
