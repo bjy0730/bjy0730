@@ -12,3 +12,6 @@
 #### - 42seoul 본과정 3기 재학중
 #### - J2KB 코딩스터디 3기 완료
 
+
+![AR-dev's Contribution](https://ghchart.rshah.org/219138/bjy0730)
+
