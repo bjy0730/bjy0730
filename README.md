@@ -17,7 +17,7 @@
 
 
 
-### 🖥 42SEOUL(Born2becode)
+### 🖥 42SEOUL(Born2code)
 ![jubaek's stats](https://badge42.herokuapp.com/api/stats/jubaek)
 
 #### - 42seoul 본과정 3기 재학중
